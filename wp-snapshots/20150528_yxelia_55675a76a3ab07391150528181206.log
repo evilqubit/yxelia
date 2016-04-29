@@ -1,0 +1,75 @@
+********************************************************************************
+PACKAGE-LOG: 2015-05-28 18:12:16
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	0.5.22
+WORDPRESS:	4.2.2
+PHP INFO:	5.2.17 | SAPI: cgi-fcgi
+SERVER:		Apache 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 5000M (128M default) 
+MEMORY STACK: 32.5MB 
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP (query limit - 100)
+MYSQLDUMP:    Is Supported
+MYSQLTIMEOUT: 5000 
+TABLES: total:23 | filtered:0 | create:23 
+FILTERED: [] 
+SQL CREATED: 20150528_yxelia_55675a76a3ab07391150528181206_database.sql 
+SQL FILE SIZE: 1.15MB 
+SQL FILE TIME: 2015-05-28 18:12:18 
+SQL RUNTIME: 2.03 sec. 
+
+******************************************************************************** 
+ARCHIVE (ZIP): 
+******************************************************************************** 
+ARCHIVE DIR:  /home3/shaketha/public_html/www/yxelia/wordpress 
+ARCHIVE FILE: 20150528_yxelia_55675a76a3ab07391150528181206_archive.zip 
+FILTERS: *OFF* 
+DIRS:  not set 
+EXTS:  not set 
+---------------------------------------- 
+COMPRESSING 
+SIZE:	25.59MB 
+STATS:	Dirs 171 | Files 1,588 | Links 0 
+SQL ADDED: 20150528_yxelia_55675a76a3ab07391150528181206_database.sql 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 1759
+    [filename] => /home3/shaketha/public_html/www/yxelia/wordpress/wp-snapshots/tmp/20150528_yxelia_55675a76a3ab07391150528181206_archive.zip
+    [comment] => 
+)
+ 
+COMPRESSION RESULT: '1' 
+COMPRESSED SIZE: 10.29MB 
+ARCHIVE RUNTIME: 3.57 sec. 
+MEMORY STACK: 33.5MB 
+
+******************************************************************************** 
+MAKE INSTALLER: 
+******************************************************************************** 
+Build Start 
+Build Finished 
+Preping for use 
+Template parsed with new data 
+Complete [/home3/shaketha/public_html/www/yxelia/wordpress/wp-snapshots/tmp/20150528_yxelia_55675a76a3ab07391150528181206_installer.php] 
+Added to archive 
+
+******************************************************************************** 
+INTEGRITY CHECKS: 
+******************************************************************************** 
+SQL File: 1.15MB 
+Installer File: 318.01KB 
+Archive File: 10.29MB  
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 5.75 sec.
+PEAK PHP MEMORY USED: 36MB
+DONE PROCESSING => 20150528_yxelia 2015-05-28 18:12:22
+ 
